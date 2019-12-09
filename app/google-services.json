@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339864727655",
+    "firebase_url": "https://lacone.firebaseio.com",
+    "project_id": "lacone",
+    "storage_bucket": "lacone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339864727655:android:dd6ff8ad235b51d0aba4c2",
+        "android_client_info": {
+          "package_name": "com.kevin.lacone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339864727655-cggkok0gsiggme4dh28lciup32r4nraj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevin.lacone",
+            "certificate_hash": "4346a02cfb30d49904e24bda1f5910b92b91b6fb"
+          }
+        },
+        {
+          "client_id": "339864727655-ec8an3gvdatktif1egbjf0o2a7eomk4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujLDUi9d7GJ8RNQYXlsEAY75JVSW5mKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339864727655-ec8an3gvdatktif1egbjf0o2a7eomk4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
